@@ -1,9 +1,3 @@
-''' 
-Name = Kartik
-Roll no. = 2505317
-Group = G8
-'''
-
 import re
 
 def password_checker():
