@@ -7,7 +7,7 @@ All projects are beginner-friendly and focus on basic programming logic.
 
 ## 📌 Projects Included
 
-### 1️⃣ Simple Calculator
+### Simple Calculator
 A basic calculator program that performs arithmetic operations.
 
 **Features:**
@@ -23,7 +23,7 @@ A basic calculator program that performs arithmetic operations.
 
 ---
 
-### 2️⃣ Password Strength Checker
+### Password Strength Checker
 This program checks whether a password is weak, medium, or strong based on given conditions.
 
 **Checks Include:**
@@ -39,7 +39,7 @@ This program checks whether a password is weak, medium, or strong based on given
 
 ---
 
-### 3️⃣ Rock Paper Scissors Game
+### Rock Paper Scissors Game
 A simple command-line game where the user plays against the computer.
 
 **Game Rules:**
@@ -51,11 +51,6 @@ A simple command-line game where the user plays against the computer.
 - Random module
 - Conditional statements
 - User interaction
-
----
-
-## 🛠️ Technologies Used
-- Python 3
 
 ---
 
