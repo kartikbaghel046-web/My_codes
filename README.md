@@ -5,7 +5,7 @@ All projects are beginner-friendly and focus on basic programming logic.
 
 ---
 
-## 📌 Projects Included
+##  Projects Included
 
 ### Simple Calculator
 A basic calculator program that performs arithmetic operations.
@@ -54,7 +54,7 @@ A simple command-line game where the user plays against the computer.
 
 ---
 
-## ▶️ How to Run the Programs
+##  How to Run the Programs
 1. Install Python on your system
 2. Clone this repository or download the files
 3. Open terminal / command prompt
